@@ -2,7 +2,7 @@
 
 A list of LeetCode questions with the corresponding companies sorted by difficulty level.
 
-| **ID** | **Name** | **Difficulty.Level** | **Companies** |
+| **ID** | **Name** | **Difficulty.Level** | **Companies** | **Completed** |
 | --- | --- | --- | --- |
 | 717 | 1-bit and 2-bit Characters |  Easy | Google |
 | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
