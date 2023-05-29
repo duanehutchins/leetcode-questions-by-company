@@ -4,7 +4,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 
 | **ID** | **Name** | **Difficulty.Level** | **Companies** | **Completed** |
 | --- | --- | --- | --- | --- |
-| 717 | 1-bit and 2-bit Characters |  Easy | Google | <li>- [x] item1</li> |
+| 717 | 1-bit and 2-bit Characters |  Easy | Google | <li>- [x] </li> |
 | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
 | 258 | Add Digits |  Easy | Adobe, Apple |
 | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft |
