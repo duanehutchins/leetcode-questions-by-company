@@ -4,14 +4,14 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 
 | **ID** | **Name** | **Difficulty.Level** | **Companies** | **Completed** |
 | --- | --- | --- | --- | --- |
-| 717 | 1-bit and 2-bit Characters |  Easy | Google | - [ ] |
+| 717 | 1-bit and 2-bit Characters |  Easy | Google | &#9745; |
 | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
 | 258 | Add Digits |  Easy | Adobe, Apple |
 | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft |
 | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |
 | 844 | Backspace String Compare |  Easy | Google |
 | 110 | Balanced Binary Tree |  Easy | Amazon, Google |
-| 682 | Baseball Game |  Easy | Amazon | - [ ] |
+| 682 | Baseball Game |  Easy | Amazon | &#9745; |
 | 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |
 | 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |
 | 595 | Big Countries |  Easy | Adobe, Amazon, Google |
