@@ -4,11 +4,7 @@ import parse
 line = "| 717 | 1-bit and 2-bit Characters | Easy | Google |"
 
 class TestParse(unittest.TestCase):
-
-
-    def test_add(self):
-        result = parse.add(1,2)
-        self.assertEqual(3, result)
+    
     
     def test_get_title(self):
         result = '1-bit and 2-bit Characters'
